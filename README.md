@@ -1,4 +1,4 @@
-- 👋 Hello there ... echo from Oddoez
+Hello there ... echo from Oddoez
 
 I am Izza. 
 
